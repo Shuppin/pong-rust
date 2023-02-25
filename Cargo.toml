@@ -1,5 +1,5 @@
 [package]
-name = "totally-realistic-phys-engine"
+name = "pong-rust"
 version = "0.1.0"
 edition = "2021"
 
